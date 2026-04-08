@@ -35,6 +35,11 @@ https://github.com/user-attachments/assets/b0dd7bd0-395a-45b4-9529-d3fd8e0371a2
 
 **Interactive scene** 
 
+
+
+https://github.com/user-attachments/assets/4f0b3efb-faf3-41ea-97ac-a124988e32a7
+
+
 **Project progression timeline** 
 Below shows the iterative process of our Custom PCB along with the decisions we desided to take.
 
