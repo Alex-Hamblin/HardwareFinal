@@ -38,6 +38,20 @@ https://github.com/user-attachments/assets/4f0b3efb-faf3-41ea-97ac-a124988e32a7
 
 
 **Project progression timeline** 
+
+**Timeline:**
+<img width="2544" height="524" alt="image" src="https://github.com/user-attachments/assets/bd684bce-cb05-47c0-bf61-160622ba65be" /> 
+<img width="5020" height="816" alt="timelinep2" src="https://github.com/user-attachments/assets/285c1a4d-e3fa-4978-aec2-ebe7c486d3c4" />
+
+Links to Timeline:
+
+part1:
+https://www.preceden.com/timelines/1368923/e80afaeac3a54e3d
+
+part 2:
+https://www.preceden.com/timelines/1369024-timelinep2/f8a0170a067dd917
+
+
 Below shows the iterative process of our Custom PCB along with the decisions we decided to take.
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ff530254-54e2-485b-87ca-5b38ef527247" />
@@ -60,9 +74,6 @@ Final Version | Print version left controller | Print version right controller
 
 These two showcase the final version of the board, and the print ready version for both with the PCB being placed on the top, and the buttons in a square formation to make combination moves such as a super (medium or heavy input + special input) easier for the user, i.e. using one finger to press two buttons at once. We also added mounting holes on the boards to screw them in place and to be able to quickly replace them as needed. 
 
-<img width="2544" height="524" alt="image" src="https://github.com/user-attachments/assets/bd684bce-cb05-47c0-bf61-160622ba65be" /> 
-<iframe src="https://www.preceden.com/timelines/1368923/embed/1f6bd9210be1ede58964d615d123c7da" width="100%" height="604" frameborder="0"><a href="https://www.preceden.com" target="_top">Preceden Timeline Maker</a></iframe>
-<iframe src="https://www.preceden.com/timelines/1369024/embed/7f9d686431939d3645b4cb4ae31290a1" width="100%" height="401" frameborder="0"><a href="https://www.preceden.com" target="_top">Preceden Timeline Maker</a></iframe>
 
 After this We iterated off the controller models to create our final designs. 
 
