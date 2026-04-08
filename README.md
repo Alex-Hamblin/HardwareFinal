@@ -3,7 +3,9 @@ Worked on by Darren Chung and Alexander Hamblin
 
 
 Prototype fabrication:
+
 https://github.com/user-attachments/assets/f72a237f-5740-47ca-832d-5cea9c345368
+
 This used 2hrs 30 minutes and was using Pla plastic from the lab. 
 
 
