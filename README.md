@@ -72,5 +72,10 @@ These two showcase the final verison of the board, and the print ready verison f
 After this We iterated off of the controller models to create our final designs. 
 
 **User testing**
+We unable to perform user testing due to our board bridging ground and 3Vs and because the game lab wasn't open yesterday for sign outs 
 
 **Link to Video Presentation**
+https://youtu.be/sh5r1HefOLY
+
+**Report**
+
