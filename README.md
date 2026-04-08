@@ -52,7 +52,7 @@ Starting with the Wowki electronic simulation, This proof of concept was rather 
 Moving on to the KiCad PCB we swapped out most of the parts, foucsed on making the controller compact, swapping the ariduno uno for a Xiao Nrf52840 sense, for its built in IMU, which freed up board space for 4 buttons, then when discussing with our peers, came up with the idea to use einternet port to connect our two boards. This made connecting the two sides remarkable easy, and with the ports avaible we added a buzzer and single led to give the user feedback, via tones and led. We also swapped to a PSP joystick to save on more space and played around with the position of the parts to use if there were more ergomonic positions. 
 
 
-<img width="2544" height="524" alt="image" src="https://github.com/user-attachments/assets/bd684bce-cb05-47c0-bf61-160622ba65be" />
+
 
 
 Pre Wiring  |  Post Wiring 
@@ -66,6 +66,10 @@ Final Verison|  Print verision left controller | Print verision right controller
 ![Image3](https://github.com/user-attachments/assets/bf1725a1-084a-4068-bfc3-ac74528dee0e)  | ![Image4](https://github.com/user-attachments/assets/db957c95-8320-496a-99fc-6cf3c2e5c927) |  ![Image5](https://github.com/user-attachments/assets/8c3a4d44-f0d4-4ecb-9402-77655313f4d0)
 
 These two showcase the final verison of the board, and the print ready verison for both with the pcb being placed on the top, and the buttons in a square formation to make comibation moves such as a super (medium or heavy input + special input) easier for the user, ie using one finger to press two buttons at once. We also added mounting holes on the boards to screw them in place and to be able to quickly replace them as needed. 
+
+<img width="2544" height="524" alt="image" src="https://github.com/user-attachments/assets/bd684bce-cb05-47c0-bf61-160622ba65be" /> 
+
+After this We iterated off of the controller models to create our final designs. 
 
 **User testing**
 
