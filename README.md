@@ -14,7 +14,7 @@ This used 2hrs 30 minutes and was using Pla plastic from the lab.
 
 **Iterative CAD files**: 
 
-KiCad iterative process and files in KiCadblueprint folder
+KiCad iterative process and files in FinalDesignFinal folder
 https://github.com/user-attachments/assets/cfbbe8fc-cdd5-4a8e-aa55-ea8385bb9235
 
 
