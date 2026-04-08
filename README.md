@@ -2,17 +2,17 @@
 Worked on by Darren Chung and Alexander Hamblin
 
 
-Prototype fabrication:
+**Prototype fabrication**:
 
 https://github.com/user-attachments/assets/f72a237f-5740-47ca-832d-5cea9c345368
 
 This used 2hrs 30 minutes and was using Pla plastic from the lab. 
 
 
-Working prototype
+**Working prototype**
 
 
-Iterative CAD files: 
+**Iterative CAD files**: 
 
 
 
@@ -29,9 +29,9 @@ https://github.com/user-attachments/assets/b0dd7bd0-395a-45b4-9529-d3fd8e0371a2
 
 
 
-Interactive scene 
+**Interactive scene** 
 
-Project progression timeline 
+**Project progression timeline** 
 Below shows the iterative process of our Custom PCB along with the decisions we desided to take.
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ff530254-54e2-485b-87ca-5b38ef527247" />
@@ -54,6 +54,6 @@ Final Verison|  Print verision left controller | Print verision right controller
 
 These two showcase the final verison of the board, and the print ready verison for both with the pcb being placed on the top, and the buttons in a square formation to make comibation moves such as a super (medium or heavy input + special input) easier for the user, ie using one finger to press two buttons at once. We also added mounting holes on the boards to screw them in place and to be able to quickly replace them as needed. 
 
-User testing
+**User testing**
 
-Link to Video Presentation
+**Link to Video Presentation**
