@@ -3,12 +3,33 @@ Worked on by Darren Chung and Alexander Hamblin
 
 
 Prototype fabrication:
+https://github.com/user-attachments/assets/f72a237f-5740-47ca-832d-5cea9c345368
+This used 2hrs 30 minutes and was using Pla plastic from the lab. 
 
 
 Working prototype
 
 
 Iterative CAD files: 
+
+
+
+Controller exploded view
+[FInalControllerExplodedView.pdf](https://github.com/user-attachments/files/26558562/FInalControllerExplodedView.pdf)
+
+Controller bill of materials 
+[FInalControllerBOM.xlsx](https://github.com/user-attachments/files/26558554/FInalControllerBOM.xlsx)
+
+Exploded view animation 
+https://github.com/user-attachments/assets/b0dd7bd0-395a-45b4-9529-d3fd8e0371a2
+
+
+
+
+
+Interactive scene 
+
+Project progression timeline 
 Below shows the iterative process of our Custom PCB along with the decisions we desided to take.
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ff530254-54e2-485b-87ca-5b38ef527247" />
@@ -30,11 +51,6 @@ Final Verison|  Print verision left controller | Print verision right controller
 ![Image3](https://github.com/user-attachments/assets/bf1725a1-084a-4068-bfc3-ac74528dee0e)  | ![Image4](https://github.com/user-attachments/assets/db957c95-8320-496a-99fc-6cf3c2e5c927) |  ![Image5](https://github.com/user-attachments/assets/8c3a4d44-f0d4-4ecb-9402-77655313f4d0)
 
 These two showcase the final verison of the board, and the print ready verison for both with the pcb being placed on the top, and the buttons in a square formation to make comibation moves such as a super (medium or heavy input + special input) easier for the user, ie using one finger to press two buttons at once. We also added mounting holes on the boards to screw them in place and to be able to quickly replace them as needed. 
-
-Interactive scene 
-
-Project progression timeline 
-<iframe src="https://www.preceden.com/timelines/1368923/embed/1f6bd9210be1ede58964d615d123c7da" width="100%" height="604" frameborder="0"><a href="https://www.preceden.com" target="_top">Preceden Timeline Maker</a></iframe>
 
 User testing
 
