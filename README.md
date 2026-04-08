@@ -14,10 +14,14 @@ This used 2hrs 30 minutes and was using Pla plastic from the lab.
 
 **Iterative CAD files**: 
 
-KiCad iterative process(found further below) and files in KiCadblueprint folder
+KiCad iterative process and files in KiCadblueprint folder
+https://github.com/user-attachments/assets/cfbbe8fc-cdd5-4a8e-aa55-ea8385bb9235
+
+
 
 Controller exploded view
 [FInalControllerExplodedView.pdf](https://github.com/user-attachments/files/26558562/FInalControllerExplodedView.pdf)
+
 
 Controller bill of materials 
 [FInalControllerBOM.xlsx](https://github.com/user-attachments/files/26558554/FInalControllerBOM.xlsx)
